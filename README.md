@@ -1,9 +1,9 @@
 <h1>Hi , I'm Utkarsh 👋</h1>
 <p>I am a passionate full-stack developer. I love programming, travelling and learning whats trending.
- <br> 1. 🚀 Building & Creating Web with purpose . 
- <br> 2. 👨‍💻 Code, coffee, and commit messages. 
- <br> 3. 🛠️ Full-stack tinkerer | Minimalist by design.
- <br> 4. 🌐 Exploring the edge of web & code.</p>
+ <br> • 🚀 Building & Creating Web with purpose . 
+ <br> • 👨‍💻 Code, coffee, and commit messages. 
+ <br> • 🛠️ Full-stack tinkerer | Minimalist by design.
+ <br> • 🌐 Exploring the edge of web & code.</p>
 
  <h2>😎 About Mee</h2>
  <p>
