@@ -4,6 +4,15 @@
  <br> 2. 👨‍💻 Code, coffee, and commit messages. 
  <br> 3. 🛠️ Full-stack tinkerer | Minimalist by design.
  <br> 4. 🌐 Exploring the edge of web & code.</p>
+
+ <h2>😎 About Mee</h2>
+ <p>
+• 🧑‍💻 I'm currently working on something cool.
+<br>
+• 🚀 I'm currently learning Data Structures and Algorithms
+<br>
+• 💭 Ask me about anything, I am happy to help.
+</p>
   
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
