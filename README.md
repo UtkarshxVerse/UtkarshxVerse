@@ -2,8 +2,8 @@
 <p>I am a passionate full-stack developer. I love programming, travelling and learning whats trending.
  <br> 1. 🚀 Building & Creating Web with purpose . 
  <br> 2. 👨‍💻 Code, coffee, and commit messages. 
- <br> 3. 🛠️ Full-stack tinkerer | Minimalist by design.</p>
- <br> 4. 🌐 Exploring the edge of web & code.
+ <br> 3. 🛠️ Full-stack tinkerer | Minimalist by design.
+ <br> 4. 🌐 Exploring the edge of web & code.</p>
   
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
