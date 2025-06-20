@@ -1,6 +1,10 @@
 <h1>Hi , I'm Utkarsh 👋</h1>
 <p>I am a passionate full-stack developer. I love programming, travelling and learning whats trending.
-  1. 🚀 Building things that (sometimes) work. 2. 👨‍💻 Code, coffee, and commit messages. 3. 🛠️ Full-stack tinkerer | Minimalist by design.</p>
+  1. 🚀 Building & Creating Web with purpose . 
+  2. 👨‍💻 Code, coffee, and commit messages. 
+  3. 🛠️ Full-stack tinkerer | Minimalist by design.</p>
+  4. 🌐 Exploring the edge of web & code.
+  
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
